@@ -2,26 +2,16 @@
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,supercellusercontent.com
 DOMAIN-SUFFIX,scid.pro
-
-# 官方商店
 DOMAIN-SUFFIX,store.supercell.com
-
-# Supercell ID / 登录
 DOMAIN-SUFFIX,id.supercell.com
 DOMAIN-SUFFIX,link.supercell.com
-
-# API
 DOMAIN-SUFFIX,api.supercell.com
 DOMAIN-SUFFIX,game-assets.supercell.com
-
-# 游戏主站
 DOMAIN-SUFFIX,clashroyale.com
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,brawlstars.com
 DOMAIN-SUFFIX,haydaygame.com
 DOMAIN-SUFFIX,boombeach.com
 DOMAIN-SUFFIX,squadbusters.com
-
-# CDN / 静态资源
 DOMAIN-KEYWORD,supercell
 DOMAIN-KEYWORD,scid
